@@ -1,0 +1,10 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+  background-color: Ivory;
+  font-size: 20pt;
+}
+
+#image {
+  width: 300px;
+}
